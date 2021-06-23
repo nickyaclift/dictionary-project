@@ -8,6 +8,7 @@ function App() {
         <div className="container">
           <h1> Dictionary</h1>
           <Dictionary />
+          <span className="Nicky">Coded by Nicky Clift</span>
         </div>
       </header>
     </div>

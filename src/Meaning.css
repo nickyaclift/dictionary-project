@@ -1,0 +1,11 @@
+.meaning h3 {
+  font-weight: 300;
+}
+.meaning .definition {
+  font-weight: bold;
+  font-size: 17px;
+}
+.meaning em {
+  font-weight: light;
+  opacity: 70%;
+}
