@@ -56,3 +56,12 @@ h1 {
   padding: 20px;
   font-weight: bold;
 }
+
+.Nicky a {
+  color: rgb(1, 1, 59);
+  text-decoration: none;
+}
+.Nicky a:hover {
+  color: white;
+  text-decoration: none;
+}

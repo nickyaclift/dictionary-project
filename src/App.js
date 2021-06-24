@@ -8,7 +8,16 @@ function App() {
         <div className="container">
           <h1> Dictionary</h1>
           <Dictionary />
-          <span className="Nicky">Coded by Nicky Clift</span>
+          <span className="Nicky">
+            <a href="https://github.com/nickyaclift/dictionary-project">
+              Coded
+            </a>{" "}
+            by
+            <a href="https://quirky-lamport-3ae9a9.netlify.app/">
+              {" "}
+              Nicky Clift
+            </a>
+          </span>
         </div>
       </header>
     </div>
